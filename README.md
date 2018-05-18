@@ -10,7 +10,7 @@ Run the following on the command line:
       
       ./2048 ai [max/avg] [depth] slow
       
-Where 
+where: 
 * [max/avg] is either max or avg, to select the option for propagationg scores
 * [depth] is an integer number indicating the depth search
 * "slow" will slow the ai to watch it play 
